@@ -1,2 +1,2 @@
-# stepik_autotests_course_repo
+# stepik_autotests_course
 tasks from the course
